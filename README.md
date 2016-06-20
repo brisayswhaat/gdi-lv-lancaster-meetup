@@ -1,3 +1,9 @@
+#Girl Develop It Lehigh Valley - Lancaster Meetup
+Meetup 6/20/16, 6pm @ Pubforge in Lancaster, Pennsylvania.
+Mix & Mingle. Introduction to GDI.
+
+Slides template from GDI National Github - https://github.com/girldevelopit
+
 # reveal.js
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
@@ -23,7 +29,7 @@ Markup heirarchy needs to be ``<div class="reveal"> <div class="slides"> <sectio
 
 ```html
 <div class="reveal">
-	<div class="slides"> 
+	<div class="slides">
 		<section>Single Horizontal Slide</section>
 		<section>
 			<section>Vertical Slide 1</section>
@@ -43,7 +49,7 @@ This is based on [data-markdown](https://gist.github.com/1343518) from [Paul Iri
 <section data-markdown>
 	<script type="text/template">
 		## Page title
-		
+
 		A paragraph with some text and a [link](http://hakim.se).
 	</script>
 </section>
@@ -74,7 +80,7 @@ Reveal.initialize({
 	// Loop the presentation
 	loop: false,
 
-	// Number of milliseconds between automatically proceeding to the 
+	// Number of milliseconds between automatically proceeding to the
 	// next slide, disabled when set to 0, this value can be overwritten
 	// by using a data-autoslide attribute on your slides
 	autoSlide: 0,
@@ -219,7 +225,7 @@ Reveal.addEventListener( 'fragmenthidden', function( event ) {
 
 ## PDF Export
 
-Presentations can be exported to PDF via a special print stylesheet. This feature requires that you use [Google Chrome](http://google.com/chrome). 
+Presentations can be exported to PDF via a special print stylesheet. This feature requires that you use [Google Chrome](http://google.com/chrome).
 Here's an example of an exported presentation that's been uploaded to SlideShare: http://www.slideshare.net/hakimel/revealjs-13872948.
 
 1. Open your presentation with [css/print/pdf.css](https://github.com/hakimel/reveal.js/blob/master/css/print/pdf.css) included on the page. The default index HTML lets you add *print-pdf* anywhere in the query to include the stylesheet, for example: [lab.hakim.se/reveal-js?print-pdf](http://lab.hakim.se/reveal-js?print-pdf).
@@ -275,4 +281,3 @@ Then:
 MIT licensed
 
 Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
-
