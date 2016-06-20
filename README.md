@@ -1,5 +1,5 @@
 #Girl Develop It Lehigh Valley - Lancaster Meetup
-Meetup 6/20/16, 6pm @ Pubforge in Lancaster, Pennsylvania.
+Meetup 6/21/16, 6pm @ Pubforge in Lancaster, Pennsylvania.
 Mix & Mingle. Introduction to GDI.
 
 Slides template from GDI National Github - https://github.com/girldevelopit
